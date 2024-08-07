@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I’m @hackerAbaddon<br><br>- 👀 I’m interested in Android Development and Cyber Security<br>- 🌱 I’m currently learning Cyber Security<br>- 💞️ I’m looking to collaborate on My Dream Project<br>- 📫 How to reach me: Reach me via [LinkedIn](https://www.linkedin.com) or [Instagram](https://www.instagram.com)<br>- 😄 Pronouns: Call Me A Software Engineer<br>- ⚡ Fun fact: ...<br>
+# 👋 Hi, I’m @Vinayak Sharma<br><br>- 👀 I’m interested in Android Development and Cyber Security<br>- 🌱 I’m currently learning Cyber Security<br>- 💞️ I’m looking to collaborate on My Dream Project<br>- 📫 How to reach me: Reach me via [LinkedIn](https://www.linkedin.com) or [Instagram](https://www.instagram.com)<br>- 😄 Pronouns: Call Me A Software Engineer<br>- ⚡ Fun fact: ...<br>
 
 
 ## 🌐 Socials:
